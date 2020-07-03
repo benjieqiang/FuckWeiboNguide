@@ -1,6 +1,6 @@
 ## 脚本介绍
 
-FuckWeiboNguide上线了。一句代码实现微博兴趣页的自跳转。
+FuckWeiboNguide上线了。一句代码实现微博兴趣页的自跳转。博客地址：https://www.cnblogs.com/benjieqiang/p/13202284.html
 
 ## 解决痛点
 
